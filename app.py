@@ -251,11 +251,7 @@ st.caption(
     "Forecast data by Open-Meteo"
 )
 
-st.warning(
-    "This student project uses simple rainfall thresholds. "
-    "It is not an official flood warning, a validated flood model, "
-    "or a guarantee that a location is safe."
-)
+
 
 # ==================================================
 # SIDEBAR: CITY SEARCH
