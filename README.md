@@ -86,3 +86,7 @@ GitHub: [@snehakumari1984](https://github.com/snehakumari1984)
 ---
 
 *Built as a learning project exploring Python, data visualization, weather APIs, and flood-risk awareness.*
+
+🚀 **Live Demo:** [Launch FloodGuard](https://floodguard-rhpmklmgabo7rkpjwrcovm.streamlit.app/)
+
+💻 **Source Code:** [GitHub Repository](https://github.com/snehakumari1984/FloodGuard)
